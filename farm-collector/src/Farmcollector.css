@@ -1,0 +1,48 @@
+.header {
+  background-color:antiquewhite;
+  color: #C90044;
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  border: 2px solid brown;
+}
+
+.data {
+  background-color:antiquewhite;
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  border: 2px solid brown;
+}
+
+.modalHeader {
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+}
+
+.modalData {
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+}
+
+.errorMessage{
+  color:red;
+  background-color: white;
+  border: 2px solid red;
+}
+
+.para {
+   color: black;
+   font: bold;
+   font-size: 25px;
+   text-align: center;
+}
